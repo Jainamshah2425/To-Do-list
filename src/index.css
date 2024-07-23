@@ -1,0 +1,54 @@
+.todo{
+font: bold;
+border-radius: 5rem;
+text-align: center;
+margin-top: 100px;
+
+}
+h1{
+  font-size: 4rem;
+}
+button{
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.5 ease;
+}
+.addbut{
+  background-color: #72fb0a;
+}
+.addbut:hover{
+  background-color: #39d34b;
+}
+.delbtn:hover{
+  background-color: #39d34b;
+}
+.delbtn{
+background-color: #fb3a0a;
+}
+.move:hover{
+  background-color: #39d34b;
+}
+.move{
+  background-color: #fbab0a;
+}
+.demove:hover{
+  background-color: #39d34b;
+}
+.demove{
+  background-color: #d35839;
+}
+li{
+  background-color: rgb(12, 116, 235);
+  margin-bottom: 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  border: 3px solid black;
+  }
+ol{
+  padding: 0;
+}
+img{
+  height: 300px;
+}
+
